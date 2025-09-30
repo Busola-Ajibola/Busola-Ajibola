@@ -1,10 +1,10 @@
 ## Hi there 👋
-
-# Ajibola Oluwabusola — Data Analyst (Healthcare / Hospital Administration)
 ---
 <img width="1536" height="1024" alt="ChatGPT Image Sep 30, 2025, 04_29_01 PM" src="https://github.com/user-attachments/assets/a0815369-0e20-419d-9652-784c9ff51184" />
 
 ---
+# Data Analyst (Healthcare / Hospital Administration)
+
 
 ## About Me
 Hi — I’m **Ajibola Oluwabusola** 👋  
